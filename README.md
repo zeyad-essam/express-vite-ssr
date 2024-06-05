@@ -32,7 +32,7 @@ First, start the server:
 npm run dev
 ```
 
-This command starts the Express server and the Vite development server concurrently. Next, open your browser and navigate to \`http://localhost:3000\`.
+This command starts the Express server and the Vite development server concurrently. Next, open your browser and navigate to `http://localhost:3000`.
 
 ## Building for Production
 
